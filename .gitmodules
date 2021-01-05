@@ -1,0 +1,4 @@
+[submodule "SSofthard/ve_l10n_edi"]
+	path = SSofthard/ve_l10n_edi
+	url = git@github.com:SSofthard/ve_l10n_edi.git
+	branch = 13.0
